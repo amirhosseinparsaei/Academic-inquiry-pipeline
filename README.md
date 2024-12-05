@@ -26,7 +26,8 @@ Use and share. Please notice that any sort of misuse from this repo is your own 
 
 **Rookie guide**
 
-To uses "email finder" you need to install python, and Jupyter notebook on your system. I assume that you are using chrome.
+To use "email finder" you need to install python, and Jupyter notebook on your system. I assume that you are using chrome.
+
   - How to install python:
 Go to https://www.python.org/downloads/ and install the latest version of python.
 press win+R . type "cmd" and press enter. This black window is called the "window command terminal". 
