@@ -22,3 +22,19 @@ Notice:
 Use and share. Please notice that any sort of misuse from this repo is your own responsibility.
 
 **If you are new to any type of coding, proceed to rookie guide, Other wise proceed to codes.**
+
+
+**Rookie guide**
+
+To uses "email finder" you need to install python, and Jupyter notebook on your system. I assume that you are using chrome.
+  - How to install python:
+Go to https://www.python.org/downloads/ and install the latest version of python.
+press win+R . type "cmd" and press enter. This black window is called the "window command terminal". 
+Type "python version --". Press enter. If It shows something like: "Python 3.12.5" then you are all set.
+-  How to install Jupyter notebook:
+Jupyter is where you run my code. To install it open cmd (windows command terminal). 
+type " pip install notebook " and press enter. Install is complete. 
+To open the notebook, open cmd, type "jupyter notebook". A page opens up.
+This page is your note book. CLick File> New> Notebook.
+Here is where you can paste the code and run.
+After These you are all set to use the codes
