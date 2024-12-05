@@ -20,4 +20,5 @@ Notice:
   Currently the "Email finder" Only covers b and c (the a is easy to do). For senario d you have to use another method which I am currently workinng on.
   
 Use and share. Please notice that any sort of misuse from this repo is your own responsibility.
-  
+
+**If you are new to any type of coding, proceed to rookie guide, Other wise proceed to codes.**
