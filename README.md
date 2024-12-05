@@ -12,10 +12,10 @@ This repo has three parts:
 
 Notice:
 - The process of finding emails may be one of the following:
-  a. A website has all the names and emails in one single page. Then you can easily copy the whole page and ask chatgpt or another model to create a table from these names and emails.
-  b. The website has a main page of faculty profiles list. In such websites the emails are usually not in the main page but are on the profile pages; either protected or non protected.
-  c. The senario "b" but the main page comes in several pages like 10 or more. So there are several pages of hyperlinked names that are profile links.
-  d. The senario "c" but the whole platform is no simply on HTML but is using JAVA and is simply like there is an interactive page that only works with clicks. In this case none of the profile links or page numbers have static address to extract, but rather those links are all dynamic.
+- a. A website has all the names and emails in one single page. Then you can easily copy the whole page and ask chatgpt or another model to create a table from these names and emails.
+- b. The website has a main page of faculty profiles list. In such websites the emails are usually not in the main page but are on the profile pages; either protected or non protected.
+- c. The senario "b" but the main page comes in several pages like 10 or more. So there are several pages of hyperlinked names that are profile links.
+- d. The senario "c" but the whole platform is no simply on HTML but is using JAVA and is simply like there is an interactive page that only works with clicks. In this case none of the profile links or page numbers have static address to extract, but rather those links are all dynamic.
 
   Currently the "Email finder" Only covers b and c (the a is easy to do). For senario d you have to use another method which I am currently workinng on.
   
